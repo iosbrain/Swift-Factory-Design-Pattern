@@ -1,7 +1,7 @@
 # Swift-Factory-Design-Pattern
 An Xcode 9 project, written in Swift 4, demonstrating how to implement the factory method design pattern.
 
-In this repo and [accompanying tutorial](), I explain the _factory method_ design pattern, with which you can create very useful objects without directly calling class constructors and without knowing anything about the class(es) or class hierarchy that your factory method is instantiating. You get a lot of bang for cheap. You get functionality and UI (if applicable) with a minimal amount of code.
+In this repo and [accompanying tutorial](http://iosbrain.com/blog/2018/07/31/two-creational-design-patterns-in-swift-4-factory-method-and-singleton/), I explain the _factory method_ design pattern, with which you can create very useful objects without directly calling class constructors and without knowing anything about the class(es) or class hierarchy that your factory method is instantiating. You get a lot of bang for cheap. You get functionality and UI (if applicable) with a minimal amount of code.
 
 Here's an example of the app from this repo working:
 
